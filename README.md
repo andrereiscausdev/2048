@@ -1,0 +1,1 @@
+# Este é um projeto de desenvolvimento, feito por mim e meu amigo Julio Cesar Pereira. O sistema é um jogo, chamado 2048 e foi desenvolvido por nós dois no primeiro semestre da faculdade de Análise e Desenvolvimento de Sistemas.
