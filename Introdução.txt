@@ -1,0 +1,40 @@
+A Comissão de Educação da Câmara dos Deputados aprovou projeto que institui a Política Nacional de Estímulo ao Uso de Jogos Eletrônicos na Educação Básica (PNJE), que tem o objetivo de aprimorar a aprendizagem por meio do uso de jogos eletrônicos.
+
+Fonte: Agência Câmara de Notícias 17/09/2021 - 15:35
+  
+ Colocar no jogo: Vida extra
+
+ Análise de concorrencia:
+ Pontos Positivos:  Roda em qualquer computador, obtemos uma forma de ranking por tempo e pontuação, software desenvolvido especialmente para educação nas escolas 
+
+
+Funcionais: 
+            F1 - O sistema deve realizar cadasto de usuario 
+            F2 - O sistema deverá enviar um email automatico confirmando o cadastro do usuario.
+            F3 - O software devera ter um excelente desempenho. 
+            
+Não Funcionais: NF 2.1 - O usuario deverá se cadastrar usando seu endereço de e-mail.
+                NF 2.2 - O sistema deverá utilizar uma base de dados para o armazenamento de informações
+                NF 2.3 - 
+
+
+                NF 1.1 - Usuario devera realizar o cadastro utilizando o seu endereço de e-mail
+                NF 1.2 - O cadastro no ranking devera ter no maximo 10 caracteres 
+                NF 1.3 - A senha do usuario devera ser apenas letras e numeros.
+
+ 
+                NF 3.1 - O software devera abrir em 1 segundo
+                NF 3.2 - O jogo devera rodar em um sistema windows
+                NF 3.3 -   
+
+
+https://www.euax.com.br/2018/12/canvas-de-projeto/ - PMCANVAS
+
+https://www.sydle.com/br/blog/regras-de-negocio-5f6333be1e43744c69d995e0/ - REGRAS DE NEGOCIOS
+
+https://blog.betrybe.com/tecnologia/requisitos-nao-funcionais/ - NÃO FUNCIONAIS
+
+https://www.camara.leg.br/noticias/807384-comissao-aprova-estimulo-ao-uso-de-jogos-eletronicos-na-educacao-basica/#:~:text=Os%20jogos%20eletr%C3%B4nicos%20s%C3%A3o%20uma,educacionais%20e%20regionais%22%2C%20disse. - INTRODUÇÃO CÂMARA
+
+https://analisederequisitos.com.br/requisitos-funcionais-e-nao-funcionais/ - FUNCIONAIS
+ 
